@@ -1,0 +1,9 @@
+{
+  "python.analysis.typeCheckingMode": "standard",
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.languageServerMode": "full",
+  "editor.semanticHighlighting.enabled": true,
+  "python.analysis.referencesCodeLens": true,
+  "python.analysis.enablePytestSupport": true,
+  "python.analysis.inlayHints.pytestParameters": true
+}
