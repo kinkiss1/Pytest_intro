@@ -7,6 +7,9 @@ name = "pytest-intro"
 version = "0.1.0"
 description = "Учебный проект для практики pytest"
 requires-python = ">=3.10"
+dependencies = [
+    "pytest>=9.1.1",
+]
 
 [project.optional-dependencies]
 dev = [
